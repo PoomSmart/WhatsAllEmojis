@@ -1,0 +1,10 @@
+Package: com.ps.whatsallemojis
+Name: WhatsAllEmojis
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Ensure WhatsApp recognizes the latest emojis.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.ps.emojilibrary
+Conflicts: com.spicat.whatsallemojis
