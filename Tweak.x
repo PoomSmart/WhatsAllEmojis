@@ -1,4 +1,4 @@
-#import "../EmojiLibrary/PSEmojiUtilities.h"
+#import <EmojiLibrary/PSEmojiUtilities.h>
 
 #define in(str, TYPE) [[PSEmojiUtilities TYPE ## Emoji] containsObject:str]
 
